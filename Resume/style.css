@@ -1,0 +1,26 @@
+
+
+
+
+body {background-image: url("images/md.jpg"); background-repeat: repeat; }
+p::first-letter { font-size: 150%;}
+ul, p { font-family: "PT Sans Narrow", sans-serif; font-size: 18px; color:rgb(184, 108, 179);}
+
+h3 { font-family: "PT Sans Narrow", sans-serif; font-size: 24px; color:rgb(184, 108, 179);background-color: rgba(130, 165, 255, 0.685); }
+
+ul {list-style-image: url('images/cheesebullet.png'); list-style-type: square;}
+
+a:link {color:hotpink;}
+a:hover, a:visited, a:active {color:rgb(246, 144, 197);}
+
+h1, h2 {color:rgb(0, 0, 0);background-color: rgba(255, 127, 80, 0.704); font-family: "Tangerine-bold", cursive; font-size: 40px;letter-spacing: 2px; text-transform: uppercase; }
+
+h3 {color:rgb(22, 25, 84);}
+
+ .epic-word {font-weight: bold; text-decoration-line: underline; text-decoration-style: double}
+ .erm-you-didnt-see-that-word { text-decoration-line: line-through; }
+ .cool-word {font-weight: bold;}
+
+ #awards-honors {text-decoration: overline;}
+
+ ul, p { background-color: rgba(41, 20, 35, 0.946); }
